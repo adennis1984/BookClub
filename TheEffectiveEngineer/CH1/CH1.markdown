@@ -15,6 +15,7 @@
 ### Increase Your Leverage in Three Ways
 
 * 前 Intel CEO Andrew Grove 對增加 leverage 的建議：
+
 > 1. 減少完成特定工作所需花費的時間
 > 2. 增加特定工作的產出
 > 3. 用更高效的方式來完成這個工作
@@ -38,6 +39,7 @@
 * 中心思想是：專注在高槓桿的活動
 
 * eg. Facebook
+
 > 現在 Facebook 已經有擁有很強烈的用人文化，每個員工都視自己為以高標準用人的守衛者，
 > 而且用人是工作權重裡最為優先的事。但在 Yishan Wong 在 2006 年在 Facebook 工作時，卻完全不是這麼一回事。
 >
@@ -53,6 +55,7 @@
 > 很明顯的，要一個公司能培養出強悍的招聘文化不很容易的，通常要花很多年 (Wong 在 Facebook 共花了四年) 但這卻是一個很高槓桿 (high-leverage) 的行為，不僅會更容易吸引到優秀的員工加入，也能直接的幫助 Facebook 的成長茁壯！
 
 * eg. Bill Gates 的慈善事業
+
 > Bill Gates 將慈善基金會有限的資源投入在尋麻疹跟瘧疾的疫苗，如此救活了數百萬人的性命！
 
 ## Reflective (主觀感受) 
