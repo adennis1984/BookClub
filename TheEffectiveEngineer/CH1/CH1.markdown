@@ -4,7 +4,7 @@
  
 ### Use Leverage as Your Yardstick for Effectiveness
 
-> ![Leverage](Leverage.jpg "Leverage")
+> ![Leverage](https://github.com/adennis1984/BookClub/blob/master/TheEffectiveEngineer/CH1/Leverage.png?raw=true "Leverage")
 >
 > * leverage 概念上就是所謂的 ROI (投資回報, Return On Investment)
 > * 時間是最有限的資源，它無法被儲存，延展，甚至置換
