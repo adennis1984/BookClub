@@ -47,7 +47,7 @@
 5. People - 工作夥伴
 6. Autonomy - 自主權
 
-* Dedicate Time on the Job to Develop New Skills - 在工作中花時間發展新的技能
+### Dedicate Time on the Job to Develop New Skills - 在工作中花時間發展新的技能
 
 1. Study code for core abstractions written by the best engineers at your company - 學習由公司內部最好的工程師所撰寫的核心抽象程式碼
 2. Write more code - (有條件地) 撰寫更多的程式碼 
@@ -60,7 +60,7 @@
 9. Make sure you’re on a team with at least a few senior engineers whom you can learn from - 確認團隊裡有學習對象
 10. Jump fearlessly into code you don’t know - 不怕挑戰
 
-* Always Be Learning 持續不斷地學習
+### Always Be Learning 持續不斷地學習
 
 1. Learn new programming languages and frameworks - 學習新語言及框架
 2. Invest in skills that are in high demand - 投資高需求技能
@@ -84,6 +84,8 @@
 ## Interpretive (有何啟發)
 1. 一直以為學習只是可以不用重複學習而已，原來是可以呈現指數的學習速度！
 2. 嚴格的 mentor 的帶領真的會差很多
+3. 把自己當作一家公司在經營
+4. 持續迭代，每次學習之後都找機會上場實作，再根據反饋改進
  
 ## Decisional (具體實踐)
 1. 持續不斷的廣泛閱讀 
