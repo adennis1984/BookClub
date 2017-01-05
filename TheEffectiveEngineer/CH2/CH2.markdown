@@ -1,6 +1,6 @@
 # CH2. Optimize for Learning
 
-## Objective (客觀事實)
+## 摘要
  
 ### Adopt a Growth Mindset - 採行成長心態
 
@@ -15,66 +15,77 @@
 
 ![Figure1](https://github.com/adennis1984/BookClub/blob/master/TheEffectiveEngineer/CH2/Figure1.png?raw=true "Figure1") 
 
-* 前 Intel CEO Andrew Grove 對增加 leverage 的建議：
+* 複利率有下述三種特性：
 
-> 1. 減少完成特定工作所需花費的時間
-> 2. 增加特定工作的產出
-> 3. 用更高效的方式來完成這個工作
-
-
+1. 複利曲線就像曲棍球棍一樣，它一開始只會慢慢地增長，看起來平坦到幾乎是一直線，但隨後突然轉變為快速增長。
+2. 越早開始進行複利的投資，你就能越快達到快速增長的地區，越快獲得收益。（eg. 這就是為什麼財務顧問建議儘早投資退休賬戶，這樣你就可以利用更多年的複利。
+3. 即使差距不大的複利率也可以在長期產生巨大的差異。
+> 1. 如圖2（a）所示，其比較分別支付4％和5％利息的兩個帳戶，每天複利，5％的賬戶在40年後的回報率高出49％，在60年後的回報率為82％。
+> 2. 如果你將利率加倍到8％ (見圖2（b）)，40年後你的回報率將提高5倍，60年後更會增長到11倍!
 
 ![Figure2](https://github.com/adennis1984/BookClub/blob/master/TheEffectiveEngineer/CH2/Figure2.png?raw=true "Figure2") 
 
-* 好答案來自一個好問題
-* 上述做法轉化成問題為：
+* 學習就像複利率一樣，具有下述三種類似的特性：
 
-> 1. 我該怎麼用更少的時間來完成這個工作？
-> 2. 我該怎麼增加這個工作的產出價值？
-> 3. 有其他的方式可以讓我把時間花在上面而可以換得更高的價值嗎？
- 
-* 怎麼用上述的問句來進行每日工作的價值最大化
-* eg. 假設你是一個產品工程師，你可以做下列的事：
+1. 學習遵循指數增長曲線。知識給你一個基礎，使你更快地獲得更多的知識。例如，對遞迴運算的理解為許多其他概念（如樹和圖搜尋）提供了基礎，而這些概念又是理解編譯器和網絡拓撲所必需的。
+2. 你為學習而優化的時間越早，你的學習時間就越長。例如，一個好的第一份工作使得更容易獲得更好的第二份工作，從而影響未來的就業機會。
+3. 由於復合，即使是小的三角洲在你自己的學習速度，從長遠來看有很大的不同。
+> 關於智力的複合回報的最後一點是最不直觀的：我們傾向於大幅度低估小變化對我們的增長率的影響。但是當我們將工作時間花在不必要的任務上時，我們不僅僅會因為無聊而忽略了學習的機會，我們還為我們未來的增長和學習付出了巨大的機會成本。
 
-> 1. 將至今為止以人工來處理的開發或測試的過程用自動化來取代，以便您可以更快地迭代。
-> 2. 根據啟動任務的重要程度確定任務的優先級，以便最大限度地發揮最終產品的價值。
-> 3. 與客戶支援團隊溝通，了解客戶最大的痛點，並利用這些知識來了解是否還有其他功能可以幫助您以更少的開發工作卻能產生更多的價值。
+* Zappos總裁Tony Hsieh在他的書 “Delivering Happiness” 中提倡持續迭代(Continuous iteration)。追求增長和學習是在線鞋業公司的十大核心價值觀之一，十年來其收入從零增長到超過12億美元。 Hsieh 和他的首席財務官 Alfred Lin 對所有員工提出了一個常見的挑戰：『想想每天只提高1％的意義。每天提高1％有一個戲劇性的效果，這將在年底使我們擁有37倍的成效，而不是365％（3.65倍）』
 
-### Direct Energy Toward Leverage Points, Not Just Easy Wins
+### Seek Work Environments Conducive to Learning - 尋求有利於學習的工作環境
 
-* 中心思想是：專注在高槓桿的活動
+* 因為我們花費了大量的時間在工作，提高我們的學習率的最強大的槓桿點之一是我們的工作環境的選擇。
+* 一些工作環境比其他工作環境更有利於支持高個人和專業成長率。 以下是選擇新工作或團隊時要考慮的六個主要因素，以及您應該詢問每個問題的問題：
+1. 快速成長
+> 當 Sheryl Sandberg 決定是否加入Google時，首席執行官 Eric Schmidt 給了她一個寶貴的建議：『如果你在火箭船上獲得座位，你不會問什麼座位。你只會持續前進。』關注成長的建議很好：她首先成為了 Google 的副總裁，接著成為了 Facebook 的首席運營官。在快速成長的團隊和公司，要解決的問題數量遠超過可用資源，這提供了你充足的機會，產生巨大的影響和增加你的責任。增長也使得更容易吸引優秀的人才，並建立一個強大的團隊，反饋同時促進更多的成長。另一方面，缺乏成長會導致停滯和政治。員工可能會在有限的資源裡爭奪，因此找到和留住優秀的人才會變得更加困難。
 
-* eg. Facebook
+2. Training - 員工訓練
+3. Openness - 開放透明的領導風格
+4. Pace - 快速的學習步伐
+5. People - 工作夥伴
+6. Autonomy - 自主權
 
-> 現在 Facebook 已經有擁有很強烈的用人文化，每個員工都視自己為以高標準用人的守衛者，
-> 而且用人是工作權重裡最為優先的事。但在 Yishan Wong 在 2006 年在 Facebook 工作時，卻完全不是這麼一回事。
->
-> 那時 Facebook 的工程師將招聘和訪談視為干擾他們完成工作的分心項目
-> －這跟大多數的公司都如出一徹！每個人都知道招聘很重要，單真的要行動就是另外一回事了！
->
-> Wong 就開始逐漸地施加壓力，讓員工們都覺得招聘流程是一件如藝術般的重要存在！
-> 然而，當員工問他：公司怎麼確保招聘到的員工是一個夠強悍的工程師呢？
-> Wong 就回了：這就是 `你` 的工作了！
-> 
-> 如此以往，不僅員工視招聘為首要任務，甚至這成為了 Facebook 一項很重要的競爭優勢！
->
-> 很明顯的，要一個公司能培養出強悍的招聘文化不很容易的，通常要花很多年 (Wong 在 Facebook 共花了四年) 但這卻是一個很高槓桿 (high-leverage) 的行為，不僅會更容易吸引到優秀的員工加入，也能直接的幫助 Facebook 的成長茁壯！
+* Dedicate Time on the Job to Develop New Skills - 在工作中花時間發展新的技能
 
-* eg. Bill Gates 的慈善事業
+1. Study code for core abstractions written by the best engineers at your company - 學習由公司內部最好的工程師所撰寫的核心抽象程式碼
+2. Write more code - (有條件地) 撰寫更多的程式碼 
+3. Go through any technical, educational material available internally - 研讀公司內部有用的文件
+4. Master the programming languages that you use - 嫻熟使用的程式語言
+5. Send your code reviews to the harshest critics - 讓最嚴格的批判者來審視你的程式碼
+6. Enroll in classes on areas where you want to improve - 參與你想精進領域的課程
+7. Participate in design discussions of projects you’re interested in - 參與有興趣專案的設計討論
+8. Work on a diversity of projects - 參與多種專案
+9. Make sure you’re on a team with at least a few senior engineers whom you can learn from - 確認團隊裡有學習對象
+10. Jump fearlessly into code you don’t know - 不怕挑戰
 
-> Bill Gates 將慈善基金會有限的資源投入在尋麻疹跟瘧疾的疫苗，如此救活了數百萬人的性命！
+* Always Be Learning 持續不斷地學習
+
+1. Learn new programming languages and frameworks - 學習新語言及框架
+2. Invest in skills that are in high demand - 投資高需求技能
+3. Read books - 閱讀
+4. Join a discussion group - 參與討論群組
+5. Attend talks, conferences, and meetups 參與實體活動
+6. Build and maintain a strong network of relationships - 建立並保持良好的人脈
+7. Follow bloggers who teach - 追蹤教學部落客
+8. Write to teach - 撰寫教學文章
+9. Tinker on side projects - 做 side project
+10. Pursue what you love - 追求所愛
+
+## Objective (客觀事實)
+1. 保持複利率式的學習曲線
+2. 參與多種專案
 
 ## Reflective (主觀感受) 
-1. 每個人都生命都是有限的，怎麼將時間價值最大化是很重要的事
-2. 80/20 法則真好用，一招半式走天下 XD
-3. 怎麼辨識哪些事情是值得投入?
-4. 如何評估何謂真正的 impact ?
-5. 不同角色的 impact/goal 不同，彼此衝突時該怎麼解決？
+1. 近朱者赤，近墨者黑，環境真的很重要
+2. 學習曲線可以是指數型態的有嚇到我！
 
 ## Interpretive (有何啟發)
-連 Facebook 我們現在看來這麼威猛的公司在早期也是都會遭遇跟現在我們工作上一樣的問題，所以我們不能妄自菲薄，日拱一卒我們也可以達到 Facebook 的水平的！
+1. 一直以為學習只是可以不用重複學習而已，原來是可以呈現指數的學習速度！
+2. 嚴格的 mentor 的帶領真的會差很多
  
 ## Decisional (具體實踐)
-1. Leverage / 以小成大 這中心思想建議所有人都要有，畢竟人生而有限！
-2. 未來做事會更以 Leverage 的角度來思考，能不能更短時間完成？能不能產出更多的價值？有沒有其他方法可以做到一樣的事卻更有價值？
-
-
+1. 持續不斷的廣泛閱讀 
+2. 參加讀書會 XD
+3. 保持熱情
