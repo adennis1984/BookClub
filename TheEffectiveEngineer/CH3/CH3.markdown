@@ -9,9 +9,10 @@
 
 ### Work on what directly leads to value - 研究什麼才會直接產生價值
 
-* 不要試圖做一切，定期問自己，是否有你可以做的更高槓桿力的活動。
+* 不要試圖去做所有的事情
+* 定期問自己，是否還有你可以做的更高槓桿力的活動。
 
-### Work on the important and non-urgent - 專注於重要而且非緊急的工作項目
+### Work on the important and non-urgent - 專注於重要且不緊急的工作
 
 ![Figure1](https://github.com/adennis1984/BookClub/blob/master/TheEffectiveEngineer/CH3/Figure1.png?raw=true "Figure1") 
 
@@ -20,7 +21,7 @@
 ### Reduce context switches - 減少上下文切換
 
 * 確保你多數的時間是用在你的創意輸出，並限制正在進行的項目的數量，以便你不會花費心力在不必要的任務上。
->
+
 > #### Reflective (主觀感受) 
 > * Switch Context, Switch Bug!
 
