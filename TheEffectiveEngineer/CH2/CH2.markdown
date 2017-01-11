@@ -94,3 +94,6 @@
 1. 持續不斷的廣泛閱讀 
 2. 參加讀書會 XD
 3. 保持熱情
+
+
+[#The Effective Engineer 讀書會](https://softnshare.wordpress.com/portfolio/packageeffectiveengineer/)

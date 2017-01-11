@@ -18,7 +18,7 @@
 
 * 就算按它們沒有完工期限，也要調高那些會增加你生產力的長期投資項目的優先層級。
 
-### Reduce context switches - 減少上下文切換
+### Reduce context switches - 減少操作情境的切換
 
 * 確保你多數的時間是用在你的創意輸出，並限制正在進行的項目的數量，以便你不會花費心力在不必要的任務上。
 
@@ -28,11 +28,11 @@
 
 ### Make if-then plans to combat procrastination - 讓 if-then 計劃來打擊拖延症
 
-* 綁定意圖去做某事以觸發顯著地增加你完成它的可能性。
+* 綁定意圖去做某件事以顯著地提高你完成它的可能性。
 
-### Make prioritization a habit - 使優先級成為一種習慣
+### Make prioritization a habit - 使排定優先層級成為一種習慣
 
-* 實驗找出一個好的工作流程。
+* 做實驗找出一個好的工作流程。
 * 定期審視工作項目的優先層級，這將讓你更容易專注在完成那些最高槓桿活動。
 
 ## Objective (客觀事實)
@@ -50,3 +50,6 @@
 ## Decisional (具體實踐)
 1. 
 2. 
+
+
+[#The Effective Engineer 讀書會](https://softnshare.wordpress.com/portfolio/packageeffectiveengineer/)

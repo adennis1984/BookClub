@@ -73,3 +73,4 @@
 2. 未來做事會更以 Leverage 的角度來思考，能不能更短時間完成？能不能產出更多的價值？有沒有其他方法可以做到一樣的事卻更有價值？
 
 
+[#The Effective Engineer 讀書會](https://softnshare.wordpress.com/portfolio/packageeffectiveengineer/)
