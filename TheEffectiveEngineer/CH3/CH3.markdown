@@ -61,8 +61,10 @@
 
 > 作者使用的方法 
 > * Asana 
-> 1. backlog, Current Priorities 
-> 2. 個人化看板 (This Week, Today, Doing)
+>
+>> 1. backlog, Current Priorities 
+>> 2. 個人化看板 (This Week, Today, Doing)
+>
 > * 蕃茄鐘 (以25分為計算的基數)
 > * 每週30分鐘回顧
 > * 每天回顧是針對小改變
