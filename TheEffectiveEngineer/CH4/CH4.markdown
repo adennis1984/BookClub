@@ -43,12 +43,10 @@
 ### Don’t Ignore Your Non-Engineering Bottlenecks - 不要忽略非工程端的瓶頸 
 
 * cross-team dependencies - 跨組織的依賴
-
 > * 雖然確實有可能是對方單位的消極處理，但更有可能是彼此對工作項目的優先權認定有差異
 > * 專案會失敗通常是因為缺乏溝通而不是過度溝通
 
 * approvals from decision-makers - 關鍵決策者的批准
-
 > * early feedback
 > * 儘早提前得知決策者的想法，無法與決策者直接對談時，可由其周遭人員下手，觀察其思考脈絡！
 
@@ -74,7 +72,6 @@
 * 加強對語言及操作環境的熟悉度
 * 練習英文打字速度
 * 擴大專案進行時的影響範圍 
-
 > * 向上管理
 > * 橫向管理
 
