@@ -25,7 +25,7 @@
 
 * 學習高產出的高階語言 
 
-> eg. Ruby, Python
+>> eg. Ruby, Python
 
 * 熟悉 UNIX (or Windows) 的 Shell commands 
 
