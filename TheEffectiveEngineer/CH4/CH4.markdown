@@ -14,7 +14,7 @@
 * 如果你已經自行開發了一個省時工具，推廣出去！
 * 縮小省時工具的作用範圍，別讓不斷接踵而來的開發壓力阻撓了你去開發自動化工具
 
-### Shorten Your Debugging and Validation Loops - 縮短debug和驗證時間
+### Shorten Your Debugging and Validation Loops - 縮短除錯和驗證時間
 
 * 開發測試時可以撰寫小工具越過繁雜的正規步驟
 * “Effective engineers have an obsessive ability to create tight feedback loops for what they’re testing,” Mike Krieger, co-founder and CTO of Instagram
