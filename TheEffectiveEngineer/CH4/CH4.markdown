@@ -1,6 +1,6 @@
 # Part 2: Execute, Execute, Execute
 
-# CH3. Invest in Iteration Speed - 投資於迭代速度
+# CH4. Invest in Iteration Speed - 投資於迭代速度
 
 ## 摘要
 
@@ -64,8 +64,8 @@
 * 練習英文打字速度
 * 擴大專案進行時的影響範圍 
 
-> 向上管理
-> 橫向管理
+> * 向上管理
+> * 橫向管理
 
 
 [#The Effective Engineer 讀書會](https://softnshare.wordpress.com/portfolio/packageeffectiveengineer/)
