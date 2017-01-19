@@ -22,29 +22,22 @@
 ###  Master Your Programming Environment 精通開發環境
 
 * 精通你常用的文字編輯器或 IDE 
-
 * 學習高產出的高階語言 
-
 > eg. Ruby, Python
 
 * 熟悉 UNIX (or Windows) 的 Shell commands 
-
 > eg. grep, sort, uniq, wc, awk, sed, xargs, find, man
 
 * 使用鍵盤來取代滑鼠 
-
 > eg. keyboard shortcuts, custom key sequences
 
 * 自動化需手動的工作流程 
-
 > eg. livereload
 
 * 使用互動式直譯器來測試 idea 
-
 > eg. Ruby, Python, Javascript
 
 * 讓與當前修改內容相關的單元測試能更快速且容易地被運行 
-
 > eg. 整合進文字編輯器或IDE
 
 ### Don’t Ignore Your Non-Engineering Bottlenecks - 不要忽略非工程端的瓶頸 
