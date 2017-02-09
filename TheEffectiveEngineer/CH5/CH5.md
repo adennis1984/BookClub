@@ -126,8 +126,5 @@
 
 * 個人化看板
 
-## 個人疑問
-* 資訊焦慮
-* 大腦超載時代的思考學?
 
 [#The Effective Engineer 讀書會](https://softnshare.wordpress.com/portfolio/packageeffectiveengineer/)
