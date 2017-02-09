@@ -19,6 +19,7 @@
 “If you can’t measure it, you can’t improve it.” - Peter Drucker, The Effective Executive
 
 * 好的監測指標有下列三種好處：
+
 > * They help you focus on the right things 他們幫助你專注於正確的事情 
 > * When visualized over time, good metrics help guard against future regressions 當隨著時間的推移，良好的指標進行視覺化將有助於防止未來可能出現的問題
 > * Good metrics can drive forward progress 良好的指標可以推動進步
