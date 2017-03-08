@@ -1,6 +1,6 @@
 # Part 3: Build Long-Term Value
 
-# CH8. Balance Quality with Pragmatism - 以實用主義來平衡產出的品質
+# CH8. Balance Quality with Pragmatism - 務實地平衡產出品質
 ## 摘要
 
 ### Introduction
@@ -55,36 +55,49 @@
 
 ![AutomateTestingErrorRate](https://github.com/adennis1984/BookClub/blob/master/TheEffectiveEngineer/CH8/AutomateTestingErrorRate.png?raw=true "AutomateTestingErrorRate")
 
+* 自動化測試的優點：
+> * 如圖一所示，減少錯誤的發生。
+> * 減少重複性的測試工作，因此我們可以通過編程方式快速運行大量分支來驗證程式的正確性。
+> * 工程師對自己工作產出的品質會更加負責。
+> * 工程師會更有自信地執行大範圍的程式碼重構。 
 
-* 
+* 較於幾個月甚至幾年後才來補測試，工程師寫程式碼時同時寫測試程式才是最佳的時刻！
+* 從 leverage 的角度來說，追求所有的程式都要有 100% 的程式碼涵蓋率是沒有意義，在關鍵的核心部分要求即可！
+* 虛擬程式的工程總監Kartik Ayyar解釋： “一旦人們真正開始運行這些單元測試並將它們進行整合時，他們才真的開始看到它節省了多少時間。
 
-* 
-> *
+### Repay Technical Debt - 償還技術債
 
-### 
+* 技術債指的是提高代碼庫的健康程度和品質所必需的所有延遲工作，如果不解決這些問題，將會減慢我們的開發速度。
+* 維基百科的發明者 Ward Cunningham 在1992年的會議文章中提出了這個術語：『第一次的程式碼撰寫通常都是在累積債務，這債務會逐步的加速發展，但只要重構就能立即償還！當債務沒有償還時，危機發生。花在不完全正確的代碼上的每一分鐘都是該債務的利息。就像金融債務，如果一直不償還我們技術債務的本金，就意味著我們必須花費越來越多的時間和精力來償還債務所累積的利息，而不是創造價值。』
+* 高效率的工程師不是盲目地處理所有的技術債，而是花費他們有限的時間在代碼庫中高度被使用的部分中以最高槓桿力的代碼來償還債務，這需要最少的時間來解決。這些改進對您的努力產生最大的影響。
 
 ### Summary
-
-* 
-* 
+* Establish a culture of reviewing code - 建立一個審查代碼的文化
+* Invest in good software abstractions to simplify difficult problems - 投資於良好的軟體抽象化以簡化困難的問題
+* Scale code quality with automated testing - 使用自動測試來擴展程式碼品質
+* Manage your technical debt - 管理你的技術債
 
 ## Objective (客觀事實)
 
-* 
+* 四個面向探討問題
+> * Code review
+> * Abstraction
+> * Auto Testing
+> * Technical Debt
 
 ## Reflective (主觀感受) 
-
-* 
-
-* 
+* 架構這件事果然很重要，讓複雜的核心功能抽象化成簡單的操作讓團隊成員正確的去執行！
+* 注意技術債的累積是很辛苦的，卻很容易被摧毀啊！
+* 在時間壓力的權衡之下，要能有條件地累積技術債！
 
 ## Interpretive (有何啟發)
-
 * 
 
 ## Decisional (具體實踐)
 
 * 
 
+## 問題
+* MVC 作者只針對 MV 做 code review，大家的看法呢？
 
 [#The Effective Engineer 讀書會](https://softnshare.wordpress.com/portfolio/packageeffectiveengineer/)
