@@ -1,12 +1,8 @@
 # Part 3: Build Long-Term Value
 
 # CH8. Minimize Operational Burden - 最小化操作負擔
+
 ## 摘要
-
-### Introduction
-
-* 
-> 
 
 ### Embrace Operational Simplicity - 擁抱操作簡單性
 
@@ -49,7 +45,6 @@
 ### Relentlessly Automate Mechanical Tasks - 持續地自動化機械任務
 
 * 每次你做一些機器可以做的事情，不斷問自己這是否值得自動化。不要讓你努力工作付出卻只是讓這些人工任務來虛耗你的時間。
-> 
 
 ### Make Batch Processes Idempotent - 使批處理等冪
 
@@ -62,6 +57,7 @@
 > * Reflective => transaction?
 
 * 等冪特性的優點：以更頻繁而不是嚴格必要的速率運行不頻繁的進程，以更快地暴露問題。
+> * Reflective => Idempotent 的概念看起來好像 functional programming XD
 
 ## Hone Your Ability to Respond and Recover Quickly - 磨練你的能力以快速回應和回復
 
@@ -70,8 +66,6 @@
 * Netflix，Google和Dropbox都假設意外和不期望的情況會發生。他們練習他們的失敗情況，以加強他們迅速恢復的能力。他們認為，當事情一切順利時，最好主動計劃和編寫腳本，而不是在不受控制的情況下爭取解決方案。
 
 * 最大限度地減少我們自己的運營負擔意味著我們也可以將更多的時間投入到更有意義的方式來推動影響力
- 
-## Objective (客觀事實)
 
 ### Summary
 
@@ -83,12 +77,14 @@
 
 ## Reflective (主觀感受) 
 * 我們開發產品總是不斷的設想用戶需求然後不斷的增加新功能，但，那都不是用戶要的啊！
+* [一窩蜂驅動開發](https://blog.chunfuchao.com/?p=656)
 
 ## Interpretive (有何啟發)
 * KISS - Keep It Simple and Stupid - is always the best practice.
 
 ## Decisional (具體實踐)
 * 保持簡單思維，持續不斷問自己，有沒有更簡單的做法！ 
+* 永遠先假設自己會犯錯，犯錯不是重點，重點是要能快速的偵錯並能快點回復原來的狀態！
 
 ## 問題
 * sharding VS scale out
