@@ -72,6 +72,7 @@
 * 高效率的工程師不是盲目地處理所有的技術債，而是花費他們有限的時間在代碼庫中高度被使用的部分中以最高槓桿力的代碼來償還債務，這需要最少的時間來解決。這些改進對您的努力產生最大的影響。
 
 ### Summary
+
 * Establish a culture of reviewing code - 建立一個審查代碼的文化
 * Invest in good software abstractions to simplify difficult problems - 投資於良好的軟體抽象化以簡化困難的問題
 * Scale code quality with automated testing - 使用自動測試來擴展程式碼品質

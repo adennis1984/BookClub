@@ -67,7 +67,7 @@
 
 * 最大限度地減少我們自己的運營負擔意味著我們也可以將更多的時間投入到更有意義的方式來推動影響力
 
-### Summary
+## Objective (客觀事實)
 
 * Do the simple thing first
 * Fail fast to pinpoint the source of errors
