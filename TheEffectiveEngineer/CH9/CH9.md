@@ -1,6 +1,6 @@
 # Part 3: Build Long-Term Value
 
-# CH8. Minimize Operational Burden - 最小化操作負擔
+# CH9. Minimize Operational Burden - 最小化操作負擔
 
 ## 摘要
 
@@ -44,12 +44,12 @@
 
 ### Relentlessly Automate Mechanical Tasks - 持續地自動化機械任務
 
-* 每次你做一些機器可以做的事情，不斷問自己這是否值得自動化。不要讓你努力工作付出卻只是讓這些人工任務來虛耗你的時間。
+* 每次你做一些機器可以做的事情，不斷問自己這是否可以自動化？不要讓你努力工作付出的結果卻只是讓這些人工任務來虛耗你的光陰。
 
-### Make Batch Processes Idempotent - 使批處理等冪
+### Make Batch Processes Idempotent - 使批次處理等冪
 
 * 等冪
-> * 使批處理更容易維護和更有彈性地故障的一種技術是使它們等冪。
+> * 使批次處理更容易維護和更有彈性地故障的一種技術是使它們等冪。
 > * 無論運行一次還是多次，冪等過程都會產生相同的結果。
 > * 無副作用 (side effect)
 
@@ -59,7 +59,7 @@
 * 等冪特性的優點：以更頻繁而不是嚴格必要的速率運行不頻繁的進程，以更快地暴露問題。
 > * Reflective => Idempotent 的概念看起來好像 functional programming XD
 
-## Hone Your Ability to Respond and Recover Quickly - 磨練你的能力以快速回應和回復
+### Hone Your Ability to Respond and Recover Quickly - 磨練你的能力以快速回應和回復
 
 * Netflix 的工程師們建立了一個名為 Chaos Monkey 的系統，隨機殺死其自己的基礎設施中的服務。他們不是花費資源讓服務能順利活著，而是積極地對自己的系統造成破壞。事實證明，這個策略實際上使他們的基礎設施更加健壯。針對重大故障的最佳防禦是經常失敗。當 Netflix 依賴於其雲服務的 Amazon Web Services 遭受重大故障時，Netflix 能夠逃脫服務中斷，而其他公司，如Airbnb，Reddit，Foursquare，Hootsuite 和 Quora 遭受了多個小時的停機時間。
 * Netflix 的方法說明了降低運營負擔的強大策略：開發快速恢復的能力。不管我們做了多少努力，事情總是會在某些時候出錯。 
