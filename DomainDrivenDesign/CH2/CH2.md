@@ -51,4 +51,7 @@
 
 ## Interpretive (有何啟發)
 
+- UBIQUITOUS LANGUAGE 的更改就是對模型的更改
+- 如果連經驗豐富的領域專家都不能理解模型，那麼模型一定出了什麼問題
+
 ## Decisional (具體實踐)
