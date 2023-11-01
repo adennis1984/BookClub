@@ -11,7 +11,7 @@
 
 ### 建構範式（paradigm）和工具支持
 
-* 為了使 MODEL-DRIVEN DESIGN 發揮作用，一定要在『可控制的範圍內』嚴格保證模型與設計之謙的醫治性。要實踐這種醫治性，必須要利用軟體工具所支持的建模範式（modeling paradigm），他可以在程式中『直接建立麼行中的對應蓋念』。
+* 為了使 MODEL-DRIVEN DESIGN 發揮作用，一定要在『可控制的範圍內』嚴格保證模型與設計之謙的一致性。要實踐這種一致性，必須要利用軟體工具所支持的建模範式（modeling paradigm），他可以在程式中『直接建立麼行中的對應蓋念』。
 ![ModelParadigmDesign](./190517.jpg?raw=true "ModelParadigmDesign")
 
 * 只有用程式碼表達模型概念時，物件設計的『真正突破之處』才彰顯出來。Java 和許多其他工具都允許建立『直接反映概念物件模型』（conceptual object models）的物件和關係。
